@@ -1,0 +1,16 @@
+#divBoton{
+    width: 80%;
+    border:solid 2px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn{
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 1.5;
+    background-color: aqua;
+}
